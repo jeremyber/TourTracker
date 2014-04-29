@@ -107,7 +107,7 @@
 		</div>
 	</div>
 	<div class="container">
-		<center><h1><a href="phish.php">Check out Phish dates here!</a></h1></center>
+		<center><h1><a href="phish.php">Check out Phish tours here!</a></h1></center>
 	</div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
