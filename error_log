@@ -1,0 +1,243 @@
+[06-Apr-2014 12:05:07 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/index2.php on line 128
+[06-Apr-2014 12:25:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/it354/public_html/jdber/TourTracker/index2.php:1) in /home/it354/public_html/jdber/TourTracker/index2.php on line 4
+[06-Apr-2014 12:26:01 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/it354/public_html/jdber/TourTracker/index2.php:1) in /home/it354/public_html/jdber/TourTracker/index2.php on line 4
+[06-Apr-2014 12:26:01 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/it354/public_html/jdber/TourTracker/index2.php:1) in /home/it354/public_html/jdber/TourTracker/index2.php on line 4
+[06-Apr-2014 12:27:48 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/it354/public_html/jdber/TourTracker/index2.php:1) in /home/it354/public_html/jdber/TourTracker/index2.php on line 4
+[06-Apr-2014 12:29:02 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/it354/public_html/jdber/TourTracker/index2.php:1) in /home/it354/public_html/jdber/TourTracker/index2.php on line 3
+[06-Apr-2014 12:29:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/index2.php on line 26
+[06-Apr-2014 12:35:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/index2.php on line 76
+[06-Apr-2014 12:35:21 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/index2.php on line 262
+[06-Apr-2014 12:35:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/index2.php on line 99
+[06-Apr-2014 12:37:00 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/index2.php on line 290
+[06-Apr-2014 12:41:22 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/it354/public_html/jdber/TourTracker/index2.php on line 93
+[06-Apr-2014 12:41:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/it354/public_html/jdber/TourTracker/index2.php on line 92
+[06-Apr-2014 12:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/index2.php on line 5
+[06-Apr-2014 13:28:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 11
+[06-Apr-2014 13:29:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 8
+[06-Apr-2014 13:29:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 8
+[06-Apr-2014 13:29:40 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 8
+[06-Apr-2014 13:30:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 8
+[06-Apr-2014 13:30:42 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 8
+[06-Apr-2014 13:32:05 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:32:05 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:32:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:32:29 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:33:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:33:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:33:32 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:33:32 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/userpage.php on line 6
+[06-Apr-2014 13:35:15 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/it354/public_html/jdber/TourTracker/userpage.php on line 7
+[06-Apr-2014 13:35:15 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/it354/public_html/jdber/TourTracker/userpage.php on line 43
+[07-Apr-2014 15:39:18 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/userpage.php on line 7
+[07-Apr-2014 15:41:04 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/userpage.php on line 39
+[07-Apr-2014 15:41:20 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting '(' in /home/it354/public_html/jdber/TourTracker/userpage.php on line 138
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: firstname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 138
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: firstname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 140
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: lastname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 141
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: email in /home/it354/public_html/jdber/TourTracker/userpage.php on line 142
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: phone in /home/it354/public_html/jdber/TourTracker/userpage.php on line 143
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: username in /home/it354/public_html/jdber/TourTracker/userpage.php on line 144
+[07-Apr-2014 15:41:46 America/Chicago] PHP Notice:  Undefined variable: date_joined in /home/it354/public_html/jdber/TourTracker/userpage.php on line 145
+[07-Apr-2014 15:42:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/userpage.php on line 144
+[07-Apr-2014 15:43:18 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/userpage.php on line 148
+[07-Apr-2014 15:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/userpage.php on line 146
+[07-Apr-2014 15:46:24 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/userpage.php on line 154
+[07-Apr-2014 15:53:07 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/error.php on line 138
+[07-Apr-2014 15:59:12 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/userpage.php on line 148
+[07-Apr-2014 15:59:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/it354/public_html/jdber/TourTracker/error.php on line 2
+[08-Apr-2014 16:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 124
+[08-Apr-2014 16:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 125
+[08-Apr-2014 16:47:28 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 125
+[08-Apr-2014 16:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 125
+[08-Apr-2014 16:48:17 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 61
+[08-Apr-2014 16:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 125
+[08-Apr-2014 16:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 124
+[08-Apr-2014 16:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 85
+[08-Apr-2014 16:49:38 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 7
+[08-Apr-2014 16:49:38 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 93
+[08-Apr-2014 16:50:05 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 7
+[08-Apr-2014 16:50:05 America/Chicago] PHP Notice:  Undefined index: username in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 93
+[08-Apr-2014 16:51:29 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 7
+[08-Apr-2014 16:52:02 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 7
+[08-Apr-2014 16:52:10 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 94
+[08-Apr-2014 16:52:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 56
+[08-Apr-2014 16:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 106
+[08-Apr-2014 16:56:27 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 64
+[08-Apr-2014 17:15:10 America/Chicago] PHP Notice:  Undefined variable: PHP_SELF in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 51
+[08-Apr-2014 17:20:30 America/Chicago] PHP Warning:  log() expects parameter 1 to be double, string given in /home/it354/public_html/jdber/TourTracker/changepassword.php on line 6
+[13-Apr-2014 17:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/bands.php on line 120
+[13-Apr-2014 18:27:05 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/bands.php on line 89
+[13-Apr-2014 22:52:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/bands.php on line 59
+[13-Apr-2014 22:52:36 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/bands.php on line 9
+[13-Apr-2014 22:52:57 America/Chicago] PHP Notice:  Undefined variable: results in /home/it354/public_html/jdber/TourTracker/bands.php on line 54
+[13-Apr-2014 22:52:57 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/bands.php on line 54
+[13-Apr-2014 22:53:07 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/bands.php on line 54
+[13-Apr-2014 22:57:31 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/it354/public_html/jdber/TourTracker/bands.php on line 70
+[13-Apr-2014 22:57:39 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/it354/public_html/jdber/TourTracker/bands.php on line 70
+[13-Apr-2014 22:57:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/bands.php on line 92
+[13-Apr-2014 23:18:08 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/bands.php on line 99
+[13-Apr-2014 23:18:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/bands.php on line 100
+[13-Apr-2014 23:18:22 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/bands.php on line 100
+[13-Apr-2014 23:18:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/bands.php on line 78
+[13-Apr-2014 23:18:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/bands.php on line 78
+[13-Apr-2014 23:20:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/bands.php on line 77
+[13-Apr-2014 23:21:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/bands.php on line 77
+[13-Apr-2014 23:22:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/bands.php on line 78
+[13-Apr-2014 23:30:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/bands.php on line 77
+[14-Apr-2014 17:08:49 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/tour.php on line 62
+[15-Apr-2014 10:49:17 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/tour.php on line 63
+[15-Apr-2014 10:51:59 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/tour.php on line 106
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 75
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 75
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 76
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 77
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 78
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 80
+[15-Apr-2014 10:52:15 America/Chicago] PHP Notice:  Undefined variable: band in /home/it354/public_html/jdber/TourTracker/tour.php on line 86
+[15-Apr-2014 10:56:56 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/it354/public_html/jdber/TourTracker/tour.php on line 77
+[15-Apr-2014 11:00:06 America/Chicago] PHP Notice:  Undefined variable: tour in /home/it354/public_html/jdber/TourTracker/tour.php on line 70
+[15-Apr-2014 11:01:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/tour.php on line 80
+[15-Apr-2014 11:01:55 America/Chicago] PHP Notice:  Undefined index: description in /home/it354/public_html/jdber/TourTracker/tour.php on line 81
+[15-Apr-2014 11:19:28 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/it354/public_html/jdber/TourTracker/tour.php on line 81
+[15-Apr-2014 11:21:43 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/tour.php on line 85
+[15-Apr-2014 11:22:17 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/tour.php on line 87
+[15-Apr-2014 11:22:46 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/tour.php on line 85
+[15-Apr-2014 11:24:01 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/tour.php on line 87
+[15-Apr-2014 11:24:54 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/it354/public_html/jdber/TourTracker/tour.php on line 87
+[15-Apr-2014 11:26:17 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/it354/public_html/jdber/TourTracker/tour.php on line 97
+[15-Apr-2014 11:57:02 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/tour.php on line 11
+[15-Apr-2014 11:57:39 America/Chicago] PHP Notice:  Undefined index: band_members in /home/it354/public_html/jdber/TourTracker/tour.php on line 54
+[15-Apr-2014 12:19:13 America/Chicago] PHP Notice:  Undefined index: userid in /home/it354/public_html/jdber/TourTracker/tour.php on line 14
+[15-Apr-2014 12:30:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/tour.php on line 156
+[15-Apr-2014 13:15:16 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/it354/public_html/jdber/TourTracker/navbar.php on line 29
+[15-Apr-2014 13:15:18 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/it354/public_html/jdber/TourTracker/navbar.php on line 29
+[15-Apr-2014 13:19:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/userpage.php on line 159
+[15-Apr-2014 13:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/userpage.php on line 159
+[15-Apr-2014 13:20:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 136
+[15-Apr-2014 13:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 104
+[15-Apr-2014 13:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 104
+[15-Apr-2014 13:24:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 104
+[15-Apr-2014 13:26:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 11
+[15-Apr-2014 13:26:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 11
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: firstname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 53
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: date_joined in /home/it354/public_html/jdber/TourTracker/userpage.php on line 54
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: username in /home/it354/public_html/jdber/TourTracker/userpage.php on line 65
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: firstname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 71
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: lastname in /home/it354/public_html/jdber/TourTracker/userpage.php on line 77
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: email in /home/it354/public_html/jdber/TourTracker/userpage.php on line 83
+[15-Apr-2014 13:26:26 America/Chicago] PHP Notice:  Undefined variable: phone in /home/it354/public_html/jdber/TourTracker/userpage.php on line 89
+[15-Apr-2014 13:26:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/userpage.php on line 155
+[15-Apr-2014 13:27:07 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/userpage.php on line 154
+[15-Apr-2014 13:56:09 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:09 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:12 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:12 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:19 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:19 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:29 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:29 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:43 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:43 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:44 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:44 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:45 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:45 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:56:51 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:56:51 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 13:57:08 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 9
+[15-Apr-2014 13:57:08 America/Chicago] PHP Notice:  Undefined index: bandid in /home/it354/public_html/jdber/TourTracker/tour.php on line 10
+[15-Apr-2014 14:00:14 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/tour.php on line 169
+[15-Apr-2014 14:01:41 America/Chicago] PHP Notice:  Use of undefined constant location - assumed 'location' in /home/it354/public_html/jdber/TourTracker/tour.php on line 172
+[15-Apr-2014 14:01:41 America/Chicago] PHP Fatal error:  Call to undefined function reload() in /home/it354/public_html/jdber/TourTracker/tour.php on line 172
+[16-Apr-2014 11:09:55 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/it354/public_html/jdber/TourTracker/phish.php on line 43
+[18-Apr-2014 11:15:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/it354/public_html/jdber/TourTracker/tour.php on line 151
+[18-Apr-2014 11:19:10 America/Chicago] PHP Notice:  Undefined variable: show_id_compare in /home/it354/public_html/jdber/TourTracker/tour.php on line 152
+[18-Apr-2014 11:19:10 America/Chicago] PHP Notice:  Undefined variable: show_id_compare in /home/it354/public_html/jdber/TourTracker/tour.php on line 152
+[18-Apr-2014 11:19:19 America/Chicago] PHP Notice:  Undefined variable: show_id_compare in /home/it354/public_html/jdber/TourTracker/tour.php on line 151
+[18-Apr-2014 11:19:19 America/Chicago] PHP Notice:  Undefined variable: show_id_compare in /home/it354/public_html/jdber/TourTracker/tour.php on line 151
+[18-Apr-2014 11:21:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/tour.php on line 148
+[18-Apr-2014 11:32:21 America/Chicago] PHP Notice:  Undefined index: showid in /home/it354/public_html/jdber/TourTracker/tour.php on line 155
+[18-Apr-2014 11:32:40 America/Chicago] PHP Notice:  Undefined index: showid in /home/it354/public_html/jdber/TourTracker/tour.php on line 155
+[18-Apr-2014 11:34:36 America/Chicago] PHP Notice:  Undefined index: showid in /home/it354/public_html/jdber/TourTracker/tour.php on line 154
+[18-Apr-2014 11:34:36 America/Chicago] PHP Notice:  Undefined index: showid in /home/it354/public_html/jdber/TourTracker/tour.php on line 155
+[18-Apr-2014 11:39:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/it354/public_html/jdber/TourTracker/tour.php on line 153
+[18-Apr-2014 11:42:08 America/Chicago] PHP Parse error:  syntax error, unexpected T_WHILE in /home/it354/public_html/jdber/TourTracker/tour.php on line 152
+[18-Apr-2014 11:43:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/it354/public_html/jdber/TourTracker/tour.php on line 154
+[21-Apr-2014 17:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 60
+[21-Apr-2014 17:06:13 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 61
+[21-Apr-2014 17:06:49 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 61
+[21-Apr-2014 17:06:53 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 61
+[21-Apr-2014 17:07:38 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 60
+[21-Apr-2014 17:09:41 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 154
+[21-Apr-2014 17:10:35 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/shows.php on line 154
+[21-Apr-2014 17:11:47 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/shows.php on line 142
+[21-Apr-2014 17:12:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/shows.php on line 148
+[21-Apr-2014 17:12:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/shows.php on line 148
+[21-Apr-2014 17:12:21 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/shows.php on line 149
+[21-Apr-2014 17:42:04 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/myshows.php on line 100
+[21-Apr-2014 17:57:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/myshows.php on line 145
+[21-Apr-2014 17:57:39 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/myshows.php on line 100
+[21-Apr-2014 17:58:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/it354/public_html/jdber/TourTracker/myshows.php on line 145
+[21-Apr-2014 17:58:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/myshows.php on line 102
+[21-Apr-2014 18:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/it354/public_html/jdber/TourTracker/myshows.php on line 101
+[21-Apr-2014 18:06:21 America/Chicago] PHP Parse error:  syntax error, unexpected T_CATCH in /home/it354/public_html/jdber/TourTracker/myshows.php on line 163
+[21-Apr-2014 18:06:49 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/it354/public_html/jdber/TourTracker/myshows.php on line 104
+[21-Apr-2014 22:33:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 7
+[21-Apr-2014 22:39:45 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 22
+[21-Apr-2014 22:40:11 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 22
+[21-Apr-2014 22:40:25 America/Chicago] PHP Fatal error:  Call to undefined function addHeader() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 17
+[21-Apr-2014 23:00:47 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 21
+[21-Apr-2014 23:01:06 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 21
+[21-Apr-2014 23:01:32 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 21
+[21-Apr-2014 23:03:29 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 21
+[21-Apr-2014 23:10:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 19
+[21-Apr-2014 23:18:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 7
+[21-Apr-2014 23:36:06 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 18
+[21-Apr-2014 23:38:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 119
+[21-Apr-2014 23:39:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 119
+[21-Apr-2014 23:40:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 118
+[21-Apr-2014 23:41:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[21-Apr-2014 23:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[21-Apr-2014 23:41:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[21-Apr-2014 23:41:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[21-Apr-2014 23:42:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[21-Apr-2014 23:42:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 120
+[22-Apr-2014 00:17:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 124
+[22-Apr-2014 00:21:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 134
+[22-Apr-2014 00:21:17 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 73
+[22-Apr-2014 00:22:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 126
+[22-Apr-2014 00:23:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 127
+[22-Apr-2014 09:50:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 9
+[22-Apr-2014 09:51:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 9
+[22-Apr-2014 13:19:22 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/it354/public_html/jdber/TourTracker/myshows.php on line 41
+[22-Apr-2014 13:46:25 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/it354/public_html/jdber/TourTracker/myshows.php on line 111
+[22-Apr-2014 14:11:14 America/Chicago] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 63
+[22-Apr-2014 14:11:27 America/Chicago] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 62
+[22-Apr-2014 14:11:27 America/Chicago] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 62
+[22-Apr-2014 14:11:27 America/Chicago] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 62
+[22-Apr-2014 14:26:26 America/Chicago] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/it354/public_html/jdber/TourTracker/myshows.php on line 319
+[23-Apr-2014 11:43:25 America/Chicago] PHP Warning:  curl_close(): 2 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:43:26 America/Chicago] PHP Warning:  curl_close(): 4 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:43:26 America/Chicago] PHP Warning:  curl_close(): 6 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:43:27 America/Chicago] PHP Warning:  curl_close(): 8 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:44:44 America/Chicago] PHP Warning:  curl_close(): 2 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:44:44 America/Chicago] PHP Warning:  curl_close(): 4 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:44:45 America/Chicago] PHP Warning:  curl_close(): 6 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 11:44:45 America/Chicago] PHP Warning:  curl_close(): 8 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 89
+[23-Apr-2014 12:11:11 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:12 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:12 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:13 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:36 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:36 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:37 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:11:37 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/it354/public_html/jdber/TourTracker/myshows.php on line 73
+[23-Apr-2014 12:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/myshows.php on line 79
+[23-Apr-2014 12:17:38 America/Chicago] PHP Warning:  curl_close(): 5 is not a valid cURL handle resource in /home/it354/public_html/jdber/TourTracker/myshows.php on line 87
+[23-Apr-2014 19:54:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/it354/public_html/jdber/TourTracker/myshows.php on line 102
+[24-Apr-2014 14:10:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 145
+[26-Apr-2014 18:06:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 10
+[26-Apr-2014 18:06:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/it354/public_html/jdber/TourTracker/phishshow.php on line 10
